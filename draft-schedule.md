@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draft Schedule (2026)
-permalink: /schedule.html
+permalink: /draft-schedule.html
 ---
 
 {% include swc/schedule.html %}
