@@ -400,6 +400,9 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
+<div>TBD</div>
+
+{% comment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
@@ -411,6 +414,8 @@ of code below the Schedule `<h2>` header below with
 This workshop is teaching a lesson in 
 <a href="https://carpentries-incubator.org/">The Carpentries Incubator</a>. Please check <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for a list of lesson sections and estimated timings.
 {% endif %}
+
+{% endcomment %}
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
